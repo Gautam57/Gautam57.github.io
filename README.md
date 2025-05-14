@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Gautam B R]
+# Hi there 👋, I'm Gautam B R
 
 Welcome to my GitHub Pages! This space serves as a portfolio of my projects, skills, and interests in data science, machine learning, and technology. I'm passionate about using data to drive insights and create impactful solutions.
 
